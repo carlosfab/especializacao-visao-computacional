@@ -2,6 +2,11 @@
 
 Este é um projeto de Detector de Fadiga desenvolvido para a Especialização em Visão Computacional. O programa utiliza técnicas de Visão Computacional e Aprendizado de Máquina para detectar sinais de fadiga (como fechamento prolongado dos olhos) em um fluxo de vídeo em tempo real.
 
+<p align="center">
+  <img src="https://github.com/carlosfab/especializacao-visao-computacional/blob/main/img/drowsiness.gif?raw=true" />
+</p>
+
+
 ## Estrutura do Projeto
 
 A estrutura do projeto é a seguinte:
